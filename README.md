@@ -1,6 +1,6 @@
 # web-project-tindog
 
-Technology stack: HTML CSS BOOTSTRAP 
+Technology stack: BOOTSTRAP, HTML, CSS 
 
 
 ![screenshots](/readme-files/1.png)
